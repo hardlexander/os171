@@ -20,3 +20,5 @@ drwxr-xr-x  2 hardyin.alexander StafCS 4096 Feb 18 10:42 week08
 drwxr-xr-x  2 hardyin.alexander StafCS 4096 Feb 18 10:42 week09
 drwxr-xr-x  2 hardyin.alexander StafCS 4096 Feb 18 10:43 week10
 /home/fasilkom/mahasiswa/h/hardyin.alexander/os171/week01
+18 Feb 2017 at 12:00:56
+Today is 

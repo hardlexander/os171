@@ -1,0 +1,5 @@
+#!/bin/bash
+DATE= date +%d\ %b\ at\ %H:%M:%S
+echo "TOday is $Date"
+exit 0
+
