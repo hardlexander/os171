@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/h/hardyin.alexander/.gnupg/pubring.gpg
+---------------------------------------------------------------
+pub   4096R/770BE12D 2017-02-25 [expires: 2017-08-24]
+uid                  Hardyin Alexander Hutapea (i just want to pass this semester without falling apart.) <hardyin.alexander@ui.ac.id>
+sub   4096R/DFF631A5 2017-02-25 [expires: 2017-08-24]
+
